@@ -311,7 +311,7 @@ The Power BI dashboard provides:
 
 
 ```markdown
-![HR Dashboard Top](Dashboard-1.png)
+![HR Dashboard Top](Dashboard-1.png.png)
 
 ![HR Dashboard Middle](Dashboard-2.png)
 
