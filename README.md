@@ -308,19 +308,12 @@ The Power BI dashboard provides:
 
 ## 🖼️ Dashboard Preview
 
-
-
-```markdown
 ![HR Dashboard Top](Dashboard-1.png)
 
 ![HR Dashboard Middle](Dashboard-2.png)
 
 ![HR Dashboard Bottom](Dashboard-3.png)
-```
 
-Replace the filenames above with the **exact names of your uploaded screenshots** in GitHub.
-
----
 
 ## 📁 Project Structure
 
